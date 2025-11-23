@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn==1.6.1
+sentence-transformers
+nltk
+beautifulsoup4
+lxml
+PyMuPDF==1.23.8
